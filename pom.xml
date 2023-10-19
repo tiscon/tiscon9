@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tiscon</groupId>
-	<artifactId>tiscon8</artifactId>
+	<artifactId>tiscon9</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tiscon8</name>
+	<name>tiscon9</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
